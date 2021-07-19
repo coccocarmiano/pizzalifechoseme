@@ -1,0 +1,116 @@
+Alessano,LE,73031,6480
+Alezio,LE,73011,5611
+Alliste,LE,73040,6657
+Andrano,LE,73032,4962
+Aradeo,LE,73040,9755
+Arnesano,LE,73010,3953
+Bagnolo del Salento,LE,73020,1879
+Botrugno,LE,73020,2851
+Brindisi,BR,72100,88812
+Calimera,LE,73021,7264
+Campi Salentina,LE,73012,10760
+Cannole,LE,73020,1754
+Caprarica di Lecce,LE,73010,2582
+Carmiano,LE,73041,12096
+Carovigno,BR,72012,15896
+Carpignano Salentino,LE,73020,3685
+Casarano,LE,73042,20489
+Castri di Lecce,LE,73020,2975
+Castrignano de' Greci,LE,73020,4070
+Castrignano del Capo,LE,73040,5334
+Castro,LE,73030,2473
+Cavallino,LE,73020,11913
+Ceglie Messapica,BR,72013,20209
+Cellino San Marco,BR,72020,6799
+Cisternino,BR,72014,11745
+Collepasso,LE,73040,6352
+Copertino,LE,73043,23870
+Corigliano d'Otranto,LE,73022,5771
+Corsano,LE,73033,5632
+Cursi,LE,73020,4251
+Cutrofiano,LE,73020,9182
+Diso,LE,73030,3073
+Erchie,BR,72020,8772
+Fasano,BR,72015,39482
+Francavilla Fontana,BR,72021,36955
+Gagliano del Capo,LE,73034,5402
+Galatina,LE,73013,27214
+Galatone,LE,73044,15754
+Gallipoli,LE,73014,20398
+Giuggianello,LE,73030,1249
+Giurdignano,LE,73020,1928
+Guagnano,LE,73010,5900
+Latiano,BR,72022,15045
+Lecce,LE,73100,89916
+Lequile,LE,73010,8624
+Leverano,LE,73045,14069
+Lizzanello,LE,73023,11549
+Maglie,LE,73024,14819
+Martano,LE,73025,9320
+Martignano,LE,73020,1730
+Matino,LE,73046,11704
+Melendugno,LE,73026,9646
+Melissano,LE,73040,7307
+Melpignano,LE,73020,2209
+Mesagne,BR,72023,27753
+Miggiano,LE,73035,3684
+Minervino di Lecce,LE,73027,3729
+Monteroni di Lecce,LE,73047,13881
+Montesano Salentino,LE,73030,2677
+Morciano di Leuca,LE,73040,3416
+Muro Leccese,LE,73036,5091
+Nardò,LE,73048,31688
+Neviano,LE,73040,5514
+Nociglia,LE,73020,2456
+Novoli,LE,73051,8211
+Oria,BR,72024,15228
+Ortelle,LE,73030,2359
+Ostuni,BR,72017,31860
+Otranto,LE,73028,5622
+Palmariggi,LE,73020,1554
+Parabita,LE,73052,9323
+Patù,LE,73053,1721
+Poggiardo,LE,73037,6119
+Porto Cesareo,LE,73010,5448
+Presicce-Acquarica,LE,73054,10487
+Racale,LE,73055,10734
+Ruffano,LE,73049,9854
+Salice Salentino,LE,73015,8642
+Salve,LE,73050,4737
+San Cassiano,LE,73020,2105
+San Cesario di Lecce,LE,73016,8297
+San Donaci,BR,72025,6869
+San Donato di Lecce,LE,73010,5792
+San Michele Salentino,BR,72018,6371
+San Pancrazio Salentino,BR,72026,10289
+San Pietro Vernotico,BR,72027,13974
+San Pietro in Lama,LE,73010,3600
+San Vito dei Normanni,BR,72019,19620
+Sanarica,LE,73030,1503
+Sannicola,LE,73017,5902
+Santa Cesarea Terme,LE,73020,3032
+Scorrano,LE,73020,6975
+Seclì,LE,73050,1923
+Sogliano Cavour,LE,73010,4065
+Soleto,LE,73010,5542
+Specchia,LE,73040,4807
+Spongano,LE,73038,3742
+Squinzano,LE,73018,14482
+Sternatia,LE,73010,2426
+Supersano,LE,73040,4509
+Surano,LE,73030,1698
+Surbo,LE,73010,14849
+Taurisano,LE,73056,12643
+Taviano,LE,73057,12492
+Tiggiano,LE,73030,2931
+Torchiarolo,BR,72020,5461
+Torre Santa Susanna,BR,72028,10703
+Trepuzzi,LE,73019,14277
+Tricase,LE,73039,17665
+Tuglie,LE,73058,5264
+Ugento,LE,73059,12001
+Uggiano la Chiesa,LE,73020,4479
+Veglie,LE,73010,14304
+Vernole,LE,73029,7296
+Villa Castelli,BR,72029,8958
+Zollino,LE,73010,2058
