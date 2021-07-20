@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pizzalifechoseme/static/css/main.beb80105.chunk.css",
-    "main.js": "/pizzalifechoseme/static/js/main.d5a247e1.chunk.js",
-    "main.js.map": "/pizzalifechoseme/static/js/main.d5a247e1.chunk.js.map",
+    "main.js": "/pizzalifechoseme/static/js/main.16f2cea5.chunk.js",
+    "main.js.map": "/pizzalifechoseme/static/js/main.16f2cea5.chunk.js.map",
     "runtime-main.js": "/pizzalifechoseme/static/js/runtime-main.c689bade.js",
     "runtime-main.js.map": "/pizzalifechoseme/static/js/runtime-main.c689bade.js.map",
     "static/js/2.28670292.chunk.js": "/pizzalifechoseme/static/js/2.28670292.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.c689bade.js",
     "static/js/2.28670292.chunk.js",
     "static/css/main.beb80105.chunk.css",
-    "static/js/main.d5a247e1.chunk.js"
+    "static/js/main.16f2cea5.chunk.js"
   ]
 }
