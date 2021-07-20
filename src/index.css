@@ -70,6 +70,22 @@ h1, h2, h3, h4, h5, h6, div {
 	animation-duration: .5s;
 }
 
+.fade-in-slow {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+.fade-in-fast {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: .25s;
+}
+
 @keyframes fadeInOpacity {
 	0% {
 		opacity: 0;
@@ -88,13 +104,21 @@ h1, h2, h3, h4, h5, h6, div {
 .form-control{
   background: #343a40;
   border-color: black;
+  color: white;
+
 }
 
 .form-control::placeholder{
   background: #343a40;
-  color: #f8f9fa;
+  color: #999999;
 }
 
 hr {
   background: #343a40;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
 }
