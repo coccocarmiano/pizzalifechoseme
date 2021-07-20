@@ -1,4 +1,7 @@
 import salento from './salento.json'
+import avg from './0.gif'
+import sigma from './1.gif'
+import msigma from './-1.gif'
 
 import {
     Container,
@@ -109,9 +112,9 @@ const CityStats = (props) => {
                 <span> rispetto al Salento. ({`${under}-${above}`})</span>
                 <br/>
                 <br/>
-                { NN < above && NN > under ? <img className="w-100" src="https://i.gifer.com/origin/fd/fd16a4d1761fde0ab ca4a77f952a6f28.gif"/> : '' }
-                { NN >= above ? <img className="w-100" src="https://media1.tenor.com/images/ccd013ec58d4ada1055ae4726173e6a4/tenor.gif?itemid=10355985"/> : '' }
-                { NN <= under ? <img className="w-100" src="https://media.tenor.com/images/1dc29a769911552cca1e4c5cd83c4590/tenor.gif"/> : '' }
+                { NN < above && NN > under ? <img className="w-100" src={avg}/> : '' }
+                { NN >= above ? <img className="w-100" src={sigma}/> : '' }
+                { NN <= under ? <img className="w-100" src={msigma}/> : '' }
                 
             </div>
         </>
